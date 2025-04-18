@@ -35,8 +35,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/food_delivery.git
-   cd food_delivery
+   git clone https://github.com/yourusername/deliveryapp.git
+   cd deliveryapp
    ```
 
 2. Install dependencies
